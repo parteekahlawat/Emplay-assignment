@@ -19,6 +19,14 @@ Before running the application, ensure you have the following installed:
 
 ## Installation
 
+Unzip this file and open the file in VS code
+
+```bash
+pip install -r requirements.txt
+python -m streamlit run app.py
+```
+
+### OR 
 ```bash
 git clone https://github.com/parteekahlawat/Emplay-assignment.git
 cd Emplay-assignment
