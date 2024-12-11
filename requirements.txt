@@ -1,0 +1,7 @@
+beautifulsoup4
+PyPDF2
+json
+streamlit
+python-dotenv
+langchain-google-genai
+langchain-core
