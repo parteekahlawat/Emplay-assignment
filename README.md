@@ -23,6 +23,7 @@ Before running the application, ensure you have the following installed:
 git clone https://github.com/parteekahlawat/Emplay-assignment.git
 cd Emplay-assignment
 pip install -r requirements.txt
+Note: Add a .env file and add a GOOGLE_API_KEY in .env
 python -m streamlit run app.py
 ```
 
